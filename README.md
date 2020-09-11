@@ -1,13 +1,19 @@
-<h1 align="center">
+<h2 align="center">
 Sugarchain: one-CPU-one-vote, the world’s fastest PoW blockchain
-</h1>
+</h2>
+
+
+<p align="center">
+Zenny Kim<br>
+zennykim.dev@gmail.com<br>
+https://zennykim-dev.github.io/home/<br>
+</p>
 
 
 > **Abstract.** Sugarchain is the world's fastest PoW blockchain, that has the first Native SegWit (Bech32) built-in by default. Unlike Bitcoin, Sugarchain has no rounding errors when the block reward is halved. It launched fairly and follows Nakamoto's one-CPU-one-vote.
 
 
-Introduction
-------------
+## 1. Introduction
 Sugarchain is a decentralized, peer-to-peer (P2P) digital currency and payment network supported by an open-source blockchain protocol, launched by Zenny Kim and Volodymyr Biloshytskyi on August 24, 2019 <sup>[[1]](#bitcointalk)</sup>. Through Sugarchain, users can make payments to anyone in the world at the highest speeds ***in 5 seconds***, and the lowest costs compared to other digital assets. For example, the transaction speed of Sugarchain is 120 times faster than Bitcoin, 30 times faster than Litecoin and 12 times faster than Dogecoin.
 
 The Sugarchain Project emerged as an alternative solution to Bitcoin in light of early concerns over Bitcoin’s wait times in confirming block transactions and rounding errors in block reward halving. By introducing minor technical modifications to the original Bitcoin source code, Sugarchain allowed for much faster transaction speeds, even lower processing fees and has ***the most accurate block reward halving and total supply*** than any other digital asset, including Bitcoin. Sugarchain also launched following the ***one-CPU-one-vote*** idea proposed by Satoshi Nakamoto himself, thus making YespowerSugar GPU and ASIC resistant. It has also launched as being the first blockchain to have ***Native SegWit (Bech32)*** enabled by default.
@@ -18,8 +24,7 @@ As one of the successful derivatives of Bitcoin, Sugarchain is establishing its 
 </small>
 
 
-Specifications
---------------
+## 2. Specifications
 | | |
 ------------|------------
 Block time: | `5` Seconds
@@ -32,8 +37,7 @@ Port: | 34230 / RPC 34229
 Premine: | None: NO ICO, NO Presale, NO Founder's rewards
 
 
-The world's fastest PoW blockchain
-----------------------------------
+## 3. The world's fastest PoW blockchain
 - 5 seconds transaction speed <sup>[[2]](#SUGAR_blocktime)</sup> :
   * 120x faster than Bitcoin
   * 30x faster than Litecoin
@@ -58,8 +62,7 @@ The world's fastest PoW blockchain
 </small>
 
 
-Native SegWit (Bech32)
-----------------------
+## 4. Native SegWit (Bech32)
 - The first blockchain to have Native SegWit (Bech32) built-in by default.
 - Significantly faster and lower cost than legacy transaction.
 - Very high probability of detection guaranteed.
@@ -76,8 +79,7 @@ Native SegWit (Bech32)
 </small>
 
 
-Better halving & Exact supply
------------------------------
+## 5. Better halving & Exact supply
 Halving is everything about limiting the total supply. Bitcoin is valuable because its total supply has been strictly limited, unlike traditional currencies. This total supply is controlled only by that halving. There is nothing else. We made this halving better.
 - The formula of Sugarchain’s total money supply (in satoshis)
   <sup>[[11]](#BTC_whitepaper)</sup>
@@ -114,8 +116,7 @@ Halving is everything about limiting the total supply. Bitcoin is valuable becau
 </small>
 
 
-one-CPU-one-vote
-----------------
+## 6. one-CPU-one-vote
 > “31/Oct/2008 Proof-of-work is essentially one-CPU-one-vote” <sup>[[11]](#BTC_whitepaper)</sup>
 
 Satoshi Nakamoto talked about the importance of decentralized mining in his whitepaper. We want to create a blockchain that anyone can do mining easily without any entry barriers.
@@ -135,8 +136,7 @@ Satoshi Nakamoto talked about the importance of decentralized mining in his whit
 </small>
 
 
-Difficulty Adjustment Algorithm (DAA)
--------------------------------------
+## 7. Difficulty Adjustment Algorithm (DAA)
 SugarShield-N510 is based on Zcash's modification of Digishield. Unlike the Zcash’s modification version, we use a moving average of `510 blocks (approx. 42.5 minutes)` <sup>[[21]](#SUGAR_sugarshield_n510)</sup> <sup>[[22]](#SUGAR_sugarshield_n510_pow)</sup>. To keep the block time 5 seconds, SugarShield-N510 adjusts the difficulty level.
 - The formula of SugarShield-N510 <sup>[[23]](#zawy-digishield)</sup>
   ```bash
@@ -160,8 +160,7 @@ SugarShield-N510 is based on Zcash's modification of Digishield. Unlike the Zcas
 </small>
 
 
-FAQ
----
+## 8. FAQ
 - Disk space requirements:
   * Blockchain size growth is around `10 MB per day` and around 3.65 GB per year.
 - Network rules:
