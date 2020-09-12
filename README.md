@@ -6,7 +6,6 @@ Sugarchain: one-CPU-one-vote, the world’s fastest PoW blockchain
 <p align="center">
 Zenny Kim<br>
 zennykim.dev@gmail.com<br>
-https://zennykim-dev.github.io/home/<br>
 </p>
 
 
@@ -173,4 +172,18 @@ SugarShield-N510 is based on Zcash's modification of Digishield. Unlike the Zcas
 <small>** <a name="70_seconds">[24]</a>: [Github: timedata.h](https://github.com/sugarchain-project/sugarchain/blob/d2d13cacd9e7c2640a02e6392978a26df06f9eb8/src/timedata.h#L23)
 ** <a name="FTL_60">[25]</a>: [Future Time Limit](https://github.com/sugarchain-project/sugarchain/blob/d2d13cacd9e7c2640a02e6392978a26df06f9eb8/src/chain.h#L36)
 </small>
+
+
+-----
+
+
+### Links
+- Website: https://sugarchain.org
+- Github: https://github.com/sugarchain-project
+- Explorer: https://1explorer.sugarchain.org
+- Explorer(2): https://sugar.wtf
+- Explorer(3): https://sugar.wtf/esplora
+- Telegram: https://t.me/sugarchain
+- Twitter: https://twitter.com/sugarchain_dev
+- Bitcointalk: https://bitcointalk.org/index.php?topic=5177722.0
 
