@@ -1,6 +1,6 @@
-<h2 align="center">
-Sugarchain: one-CPU-one-vote, the world’s fastest PoW blockchain
-</h2>
+<h1 align="center">
+Sugarchain: a PoW blockchain with fast transaction and accurate block reward halving with no rounding errors
+</h1>
 
 
 <p align="center">
@@ -78,7 +78,7 @@ Premine: | None: NO ICO, NO Presale, NO Founder's rewards
 </small>
 
 
-## 5. Better halving & Exact supply
+## 5. Exact halving and total supply
 Halving is everything about limiting the total supply. Bitcoin is valuable because its total supply has been strictly limited, unlike traditional currencies. This total supply is controlled only by that halving. There is nothing else. We made this halving better.
 - The formula of Sugarchain’s total money supply (in satoshis)
   <sup>[[11]](#BTC_whitepaper)</sup>
