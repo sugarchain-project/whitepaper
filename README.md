@@ -1,5 +1,5 @@
 <h1 align="center">
-Sugarchain: a PoW blockchain with fast transaction and accurate block reward halving with no rounding errors
+Sugarchain: A PoW blockchain with fast transaction and accurate block reward halving with no rounding errors
 </h1>
 
 
