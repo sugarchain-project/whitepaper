@@ -180,9 +180,8 @@ SugarShield-N510 is based on Zcash's modification of Digishield. Unlike the Zcas
 ### Links
 - Website: https://sugarchain.org
 - Github: https://github.com/sugarchain-project
-- Explorer: https://1explorer.sugarchain.org
-- Explorer(2): https://sugar.wtf
-- Explorer(3): https://sugar.wtf/esplora
+- Explorer(1): https://1explorer.sugarchain.org
+- Explorer(2): https://sugar.wtf/esplora
 - Telegram: https://t.me/sugarchain
 - Twitter: https://twitter.com/sugarchain_dev
 - Bitcointalk: https://bitcointalk.org/index.php?topic=5177722.0
