@@ -96,8 +96,6 @@ Halving is everything about limiting the total supply. Bitcoin is valuable becau
   * The total supply of Sugarchain is around 51 times greater than Bitcoin.
 - Halving chart:<br/>
   ![halving_chart.png](https://raw.githubusercontent.com/sugarchain-project/sugarchain-project.github.io/master/image/halving_chart.png)
-- Halving table:<br/>
-  ![halving_table.png](https://raw.githubusercontent.com/sugarchain-project/sugarchain-project.github.io/master/image/halving_table.png)
 
 
 <small>** <a name="BTC_whitepaper">[11]</a>: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
